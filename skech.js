@@ -54,6 +54,12 @@ square(XposiObj,YposiObj,tama)
 
 }
 
+
+}
+
 function movi() {
-  if (posiPraerX > XposiObj) {
-    xposi
+  if (posiPlaerX > XposiObj) {
+    XposiObj += XveloObj 
+  }
+}
+
